@@ -1,0 +1,4 @@
+should show 
+Destination = Snowflake
+Database = WARRANTY_SERVICE_ANALYTICS_DB
+Warehouse = WARRANTY_WH
