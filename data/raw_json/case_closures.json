@@ -1,0 +1,3202 @@
+[
+  {
+    "closure_id": "CLS000001",
+    "service_request_id": "SR000001",
+    "case_closed_at": "2024-06-17T15:31:23Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-06-17T15:56:23Z"
+  },
+  {
+    "closure_id": "CLS000002",
+    "service_request_id": "SR000002",
+    "case_closed_at": "2024-04-16T19:28:21Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-04-16T20:12:21Z"
+  },
+  {
+    "closure_id": "CLS000003",
+    "service_request_id": "SR000003",
+    "case_closed_at": "2024-10-21T20:07:46Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2024-10-21T20:22:46Z"
+  },
+  {
+    "closure_id": "CLS000004",
+    "service_request_id": "SR000004",
+    "case_closed_at": "2024-04-29T23:34:53Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-04-29T23:59:53Z"
+  },
+  {
+    "closure_id": "CLS000005",
+    "service_request_id": "SR000005",
+    "case_closed_at": "2024-12-28T10:27:50Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-12-28T10:32:50Z"
+  },
+  {
+    "closure_id": "CLS000006",
+    "service_request_id": "SR000006",
+    "case_closed_at": "2024-08-04T04:34:05Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-08-04T04:42:05Z"
+  },
+  {
+    "closure_id": "CLS000007",
+    "service_request_id": "SR000007",
+    "case_closed_at": "2024-07-09T14:37:33Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-07-09T14:54:33Z"
+  },
+  {
+    "closure_id": "CLS000008",
+    "service_request_id": "SR000008",
+    "case_closed_at": "2025-07-06T13:50:52Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-07-06T13:58:52Z"
+  },
+  {
+    "closure_id": "CLS000009",
+    "service_request_id": "SR000010",
+    "case_closed_at": "2024-04-01T06:34:40Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-04-01T06:43:40Z"
+  },
+  {
+    "closure_id": "CLS000010",
+    "service_request_id": "SR000012",
+    "case_closed_at": "2024-06-06T15:59:04Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-06-06T16:44:04Z"
+  },
+  {
+    "closure_id": "CLS000011",
+    "service_request_id": "SR000013",
+    "case_closed_at": "2025-02-12T06:53:36Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-02-12T06:58:36Z"
+  },
+  {
+    "closure_id": "CLS000012",
+    "service_request_id": "SR000014",
+    "case_closed_at": "2024-12-28T19:44:59Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-12-28T20:13:59Z"
+  },
+  {
+    "closure_id": "CLS000013",
+    "service_request_id": "SR000015",
+    "case_closed_at": "2024-01-16T17:26:13Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-01-16T18:25:13Z"
+  },
+  {
+    "closure_id": "CLS000014",
+    "service_request_id": "SR000017",
+    "case_closed_at": "2024-08-12T21:20:44Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-08-12T21:40:44Z"
+  },
+  {
+    "closure_id": "CLS000015",
+    "service_request_id": "SR000018",
+    "case_closed_at": "2025-05-05T11:01:57Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-05-05T12:00:57Z"
+  },
+  {
+    "closure_id": "CLS000016",
+    "service_request_id": "SR000022",
+    "case_closed_at": "2024-08-09T09:16:14Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": true,
+    "updated_at": "2024-08-09T09:58:14Z"
+  },
+  {
+    "closure_id": "CLS000017",
+    "service_request_id": "SR000023",
+    "case_closed_at": "2024-12-09T21:35:33Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2024-12-09T22:28:33Z"
+  },
+  {
+    "closure_id": "CLS000018",
+    "service_request_id": "SR000024",
+    "case_closed_at": "2024-11-14T11:26:00Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-11-14T12:08:00Z"
+  },
+  {
+    "closure_id": "CLS000019",
+    "service_request_id": "SR000025",
+    "case_closed_at": "2025-05-22T12:40:31Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-05-22T12:52:31Z"
+  },
+  {
+    "closure_id": "CLS000020",
+    "service_request_id": "SR000027",
+    "case_closed_at": "2025-06-30T00:26:20Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-06-30T01:13:20Z"
+  },
+  {
+    "closure_id": "CLS000021",
+    "service_request_id": "SR000028",
+    "case_closed_at": "2024-07-03T20:57:00Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-07-03T21:38:00Z"
+  },
+  {
+    "closure_id": "CLS000022",
+    "service_request_id": "SR000029",
+    "case_closed_at": "2025-03-04T20:50:17Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-03-04T21:13:17Z"
+  },
+  {
+    "closure_id": "CLS000023",
+    "service_request_id": "SR000030",
+    "case_closed_at": "2025-02-25T22:43:29Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-02-25T22:58:29Z"
+  },
+  {
+    "closure_id": "CLS000024",
+    "service_request_id": "SR000032",
+    "case_closed_at": "2025-07-10T11:29:17Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2025-07-10T12:19:17Z"
+  },
+  {
+    "closure_id": "CLS000025",
+    "service_request_id": "SR000033",
+    "case_closed_at": "2024-11-21T06:37:13Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-11-21T07:11:13Z"
+  },
+  {
+    "closure_id": "CLS000026",
+    "service_request_id": "SR000034",
+    "case_closed_at": "2025-04-09T22:38:06Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-04-09T23:02:06Z"
+  },
+  {
+    "closure_id": "CLS000027",
+    "service_request_id": "SR000035",
+    "case_closed_at": "2024-10-02T02:08:15Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-02T03:02:15Z"
+  },
+  {
+    "closure_id": "CLS000028",
+    "service_request_id": "SR000036",
+    "case_closed_at": "2024-09-22T16:59:04Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-09-22T17:18:04Z"
+  },
+  {
+    "closure_id": "CLS000029",
+    "service_request_id": "SR000037",
+    "case_closed_at": "2024-06-08T12:05:51Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-06-08T12:48:51Z"
+  },
+  {
+    "closure_id": "CLS000030",
+    "service_request_id": "SR000038",
+    "case_closed_at": "2025-04-20T23:15:35Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2025-04-20T23:50:35Z"
+  },
+  {
+    "closure_id": "CLS000031",
+    "service_request_id": "SR000040",
+    "case_closed_at": "2024-11-15T10:30:20Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-11-15T10:51:20Z"
+  },
+  {
+    "closure_id": "CLS000032",
+    "service_request_id": "SR000041",
+    "case_closed_at": "2025-01-06T09:03:00Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-01-06T10:00:00Z"
+  },
+  {
+    "closure_id": "CLS000033",
+    "service_request_id": "SR000042",
+    "case_closed_at": "2024-01-25T20:27:04Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-01-25T21:16:04Z"
+  },
+  {
+    "closure_id": "CLS000034",
+    "service_request_id": "SR000043",
+    "case_closed_at": "2024-02-23T12:58:51Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-02-23T13:28:51Z"
+  },
+  {
+    "closure_id": "CLS000035",
+    "service_request_id": "SR000044",
+    "case_closed_at": "2024-12-31T14:02:32Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-12-31T14:43:32Z"
+  },
+  {
+    "closure_id": "CLS000036",
+    "service_request_id": "SR000045",
+    "case_closed_at": "2024-07-29T19:24:43Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-29T20:21:43Z"
+  },
+  {
+    "closure_id": "CLS000037",
+    "service_request_id": "SR000046",
+    "case_closed_at": "2025-06-27T10:21:55Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-06-27T10:42:55Z"
+  },
+  {
+    "closure_id": "CLS000038",
+    "service_request_id": "SR000047",
+    "case_closed_at": "2024-10-24T16:41:32Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-10-24T17:37:32Z"
+  },
+  {
+    "closure_id": "CLS000039",
+    "service_request_id": "SR000048",
+    "case_closed_at": "2024-07-06T10:39:10Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2024-07-06T10:54:10Z"
+  },
+  {
+    "closure_id": "CLS000040",
+    "service_request_id": "SR000049",
+    "case_closed_at": "2024-02-13T00:30:24Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-02-13T00:58:24Z"
+  },
+  {
+    "closure_id": "CLS000041",
+    "service_request_id": "SR000053",
+    "case_closed_at": "2024-07-18T16:36:18Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-18T16:44:18Z"
+  },
+  {
+    "closure_id": "CLS000042",
+    "service_request_id": "SR000055",
+    "case_closed_at": "2025-03-27T13:34:34Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-03-27T14:01:34Z"
+  },
+  {
+    "closure_id": "CLS000043",
+    "service_request_id": "SR000056",
+    "case_closed_at": "2024-07-05T12:06:20Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2024-07-05T12:31:20Z"
+  },
+  {
+    "closure_id": "CLS000044",
+    "service_request_id": "SR000057",
+    "case_closed_at": "2024-06-26T00:18:51Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-06-26T00:33:51Z"
+  },
+  {
+    "closure_id": "CLS000045",
+    "service_request_id": "SR000059",
+    "case_closed_at": "2024-09-04T10:17:53Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-09-04T10:43:53Z"
+  },
+  {
+    "closure_id": "CLS000046",
+    "service_request_id": "SR000060",
+    "case_closed_at": "2024-02-06T01:08:03Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-02-06T01:36:03Z"
+  },
+  {
+    "closure_id": "CLS000047",
+    "service_request_id": "SR000061",
+    "case_closed_at": "2025-04-29T22:32:57Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-04-29T23:24:57Z"
+  },
+  {
+    "closure_id": "CLS000048",
+    "service_request_id": "SR000062",
+    "case_closed_at": "2025-06-01T22:52:27Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-06-01T23:52:27Z"
+  },
+  {
+    "closure_id": "CLS000049",
+    "service_request_id": "SR000063",
+    "case_closed_at": "2024-02-25T12:54:57Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-02-25T13:43:57Z"
+  },
+  {
+    "closure_id": "CLS000050",
+    "service_request_id": "SR000064",
+    "case_closed_at": "2024-10-05T12:33:37Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-10-05T13:06:37Z"
+  },
+  {
+    "closure_id": "CLS000051",
+    "service_request_id": "SR000067",
+    "case_closed_at": "2024-01-22T09:48:56Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-01-22T10:07:56Z"
+  },
+  {
+    "closure_id": "CLS000052",
+    "service_request_id": "SR000068",
+    "case_closed_at": "2024-03-05T05:58:51Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-03-05T06:09:51Z"
+  },
+  {
+    "closure_id": "CLS000053",
+    "service_request_id": "SR000069",
+    "case_closed_at": "2024-10-16T22:41:41Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-16T23:21:41Z"
+  },
+  {
+    "closure_id": "CLS000054",
+    "service_request_id": "SR000071",
+    "case_closed_at": "2025-04-12T14:11:08Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-04-12T14:21:08Z"
+  },
+  {
+    "closure_id": "CLS000055",
+    "service_request_id": "SR000072",
+    "case_closed_at": "2024-04-09T10:56:51Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-04-09T11:27:51Z"
+  },
+  {
+    "closure_id": "CLS000056",
+    "service_request_id": "SR000073",
+    "case_closed_at": "2024-08-28T17:21:32Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-08-28T18:09:32Z"
+  },
+  {
+    "closure_id": "CLS000057",
+    "service_request_id": "SR000074",
+    "case_closed_at": "2025-03-07T15:57:52Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-03-07T16:54:52Z"
+  },
+  {
+    "closure_id": "CLS000058",
+    "service_request_id": "SR000075",
+    "case_closed_at": "2024-09-20T15:13:28Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-09-20T16:08:28Z"
+  },
+  {
+    "closure_id": "CLS000059",
+    "service_request_id": "SR000076",
+    "case_closed_at": "2025-06-14T22:30:53Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-06-14T23:17:53Z"
+  },
+  {
+    "closure_id": "CLS000060",
+    "service_request_id": "SR000078",
+    "case_closed_at": "2024-05-30T21:34:47Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-05-30T22:13:47Z"
+  },
+  {
+    "closure_id": "CLS000061",
+    "service_request_id": "SR000079",
+    "case_closed_at": "2024-10-02T19:20:47Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-02T19:39:47Z"
+  },
+  {
+    "closure_id": "CLS000062",
+    "service_request_id": "SR000080",
+    "case_closed_at": "2024-04-12T10:58:39Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2024-04-12T11:56:39Z"
+  },
+  {
+    "closure_id": "CLS000063",
+    "service_request_id": "SR000081",
+    "case_closed_at": "2024-10-29T11:20:58Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": true,
+    "updated_at": "2024-10-29T11:41:58Z"
+  },
+  {
+    "closure_id": "CLS000064",
+    "service_request_id": "SR000082",
+    "case_closed_at": "2024-07-15T11:01:57Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-15T11:19:57Z"
+  },
+  {
+    "closure_id": "CLS000065",
+    "service_request_id": "SR000083",
+    "case_closed_at": "2024-02-23T03:03:10Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-02-23T03:36:10Z"
+  },
+  {
+    "closure_id": "CLS000066",
+    "service_request_id": "SR000084",
+    "case_closed_at": "2024-10-23T04:00:00Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-10-23T04:57:00Z"
+  },
+  {
+    "closure_id": "CLS000067",
+    "service_request_id": "SR000085",
+    "case_closed_at": "2025-04-15T04:45:22Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-04-15T05:12:22Z"
+  },
+  {
+    "closure_id": "CLS000068",
+    "service_request_id": "SR000086",
+    "case_closed_at": "2025-06-13T00:40:44Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2025-06-13T01:10:44Z"
+  },
+  {
+    "closure_id": "CLS000069",
+    "service_request_id": "SR000087",
+    "case_closed_at": "2024-10-06T16:51:01Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-10-06T17:50:01Z"
+  },
+  {
+    "closure_id": "CLS000070",
+    "service_request_id": "SR000088",
+    "case_closed_at": "2024-09-16T20:54:47Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2024-09-16T21:26:47Z"
+  },
+  {
+    "closure_id": "CLS000071",
+    "service_request_id": "SR000089",
+    "case_closed_at": "2025-03-19T09:35:35Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-03-19T10:34:35Z"
+  },
+  {
+    "closure_id": "CLS000072",
+    "service_request_id": "SR000090",
+    "case_closed_at": "2024-11-07T16:33:21Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-11-07T17:14:21Z"
+  },
+  {
+    "closure_id": "CLS000073",
+    "service_request_id": "SR000091",
+    "case_closed_at": "2025-05-04T14:07:11Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-05-04T14:51:11Z"
+  },
+  {
+    "closure_id": "CLS000074",
+    "service_request_id": "SR000093",
+    "case_closed_at": "2024-01-30T22:19:27Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-01-30T22:45:27Z"
+  },
+  {
+    "closure_id": "CLS000075",
+    "service_request_id": "SR000094",
+    "case_closed_at": "2024-08-28T07:06:56Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-08-28T07:20:56Z"
+  },
+  {
+    "closure_id": "CLS000076",
+    "service_request_id": "SR000095",
+    "case_closed_at": "2025-06-12T16:28:50Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2025-06-12T16:56:50Z"
+  },
+  {
+    "closure_id": "CLS000077",
+    "service_request_id": "SR000096",
+    "case_closed_at": "2025-06-20T17:59:32Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-06-20T18:21:32Z"
+  },
+  {
+    "closure_id": "CLS000078",
+    "service_request_id": "SR000097",
+    "case_closed_at": "2024-03-21T20:56:57Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-03-21T21:46:57Z"
+  },
+  {
+    "closure_id": "CLS000079",
+    "service_request_id": "SR000098",
+    "case_closed_at": "2024-06-17T15:48:14Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2024-06-17T16:16:14Z"
+  },
+  {
+    "closure_id": "CLS000080",
+    "service_request_id": "SR000099",
+    "case_closed_at": "2024-02-04T23:06:08Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-02-04T23:50:08Z"
+  },
+  {
+    "closure_id": "CLS000081",
+    "service_request_id": "SR000100",
+    "case_closed_at": "2025-06-23T19:37:01Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-06-23T20:24:01Z"
+  },
+  {
+    "closure_id": "CLS000082",
+    "service_request_id": "SR000101",
+    "case_closed_at": "2024-06-07T01:57:07Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-06-07T02:24:07Z"
+  },
+  {
+    "closure_id": "CLS000083",
+    "service_request_id": "SR000102",
+    "case_closed_at": "2024-06-05T19:58:18Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-06-05T20:18:18Z"
+  },
+  {
+    "closure_id": "CLS000084",
+    "service_request_id": "SR000103",
+    "case_closed_at": "2024-02-05T07:30:57Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-02-05T07:53:57Z"
+  },
+  {
+    "closure_id": "CLS000085",
+    "service_request_id": "SR000104",
+    "case_closed_at": "2024-10-15T13:13:16Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-10-15T14:01:16Z"
+  },
+  {
+    "closure_id": "CLS000086",
+    "service_request_id": "SR000105",
+    "case_closed_at": "2024-08-27T00:27:19Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-08-27T01:18:19Z"
+  },
+  {
+    "closure_id": "CLS000087",
+    "service_request_id": "SR000106",
+    "case_closed_at": "2024-07-23T12:48:21Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-23T13:34:21Z"
+  },
+  {
+    "closure_id": "CLS000088",
+    "service_request_id": "SR000107",
+    "case_closed_at": "2025-01-25T02:01:31Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-01-25T02:52:31Z"
+  },
+  {
+    "closure_id": "CLS000089",
+    "service_request_id": "SR000108",
+    "case_closed_at": "2024-02-16T18:23:48Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-02-16T18:29:48Z"
+  },
+  {
+    "closure_id": "CLS000090",
+    "service_request_id": "SR000109",
+    "case_closed_at": "2024-01-31T15:34:45Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-01-31T15:52:45Z"
+  },
+  {
+    "closure_id": "CLS000091",
+    "service_request_id": "SR000110",
+    "case_closed_at": "2024-04-29T23:21:40Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-04-29T23:54:40Z"
+  },
+  {
+    "closure_id": "CLS000092",
+    "service_request_id": "SR000112",
+    "case_closed_at": "2024-02-14T01:37:58Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-02-14T01:59:58Z"
+  },
+  {
+    "closure_id": "CLS000093",
+    "service_request_id": "SR000114",
+    "case_closed_at": "2024-07-17T21:29:38Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-07-17T21:40:38Z"
+  },
+  {
+    "closure_id": "CLS000094",
+    "service_request_id": "SR000116",
+    "case_closed_at": "2024-10-18T16:51:12Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-10-18T17:14:12Z"
+  },
+  {
+    "closure_id": "CLS000095",
+    "service_request_id": "SR000117",
+    "case_closed_at": "2024-09-24T08:50:09Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-09-24T09:13:09Z"
+  },
+  {
+    "closure_id": "CLS000096",
+    "service_request_id": "SR000118",
+    "case_closed_at": "2025-07-03T23:44:44Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-07-04T00:26:44Z"
+  },
+  {
+    "closure_id": "CLS000097",
+    "service_request_id": "SR000119",
+    "case_closed_at": "2024-04-24T16:32:40Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-04-24T17:08:40Z"
+  },
+  {
+    "closure_id": "CLS000098",
+    "service_request_id": "SR000121",
+    "case_closed_at": "2024-11-23T08:29:20Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-11-23T08:39:20Z"
+  },
+  {
+    "closure_id": "CLS000099",
+    "service_request_id": "SR000122",
+    "case_closed_at": "2025-05-26T02:32:35Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": true,
+    "updated_at": "2025-05-26T03:22:35Z"
+  },
+  {
+    "closure_id": "CLS000100",
+    "service_request_id": "SR000123",
+    "case_closed_at": "2024-06-28T01:08:43Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2024-06-28T01:16:43Z"
+  },
+  {
+    "closure_id": "CLS000101",
+    "service_request_id": "SR000124",
+    "case_closed_at": "2024-01-24T03:22:25Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-01-24T03:30:25Z"
+  },
+  {
+    "closure_id": "CLS000102",
+    "service_request_id": "SR000125",
+    "case_closed_at": "2025-06-24T22:35:22Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-06-24T23:27:22Z"
+  },
+  {
+    "closure_id": "CLS000103",
+    "service_request_id": "SR000126",
+    "case_closed_at": "2024-03-18T09:46:48Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-03-18T10:29:48Z"
+  },
+  {
+    "closure_id": "CLS000104",
+    "service_request_id": "SR000127",
+    "case_closed_at": "2024-07-04T18:08:29Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-04T18:53:29Z"
+  },
+  {
+    "closure_id": "CLS000105",
+    "service_request_id": "SR000128",
+    "case_closed_at": "2025-06-28T14:22:39Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-06-28T15:10:39Z"
+  },
+  {
+    "closure_id": "CLS000106",
+    "service_request_id": "SR000129",
+    "case_closed_at": "2025-07-05T13:06:30Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-07-05T14:02:30Z"
+  },
+  {
+    "closure_id": "CLS000107",
+    "service_request_id": "SR000130",
+    "case_closed_at": "2024-09-18T23:10:52Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-09-19T00:03:52Z"
+  },
+  {
+    "closure_id": "CLS000108",
+    "service_request_id": "SR000131",
+    "case_closed_at": "2024-07-22T11:32:18Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-22T11:37:18Z"
+  },
+  {
+    "closure_id": "CLS000109",
+    "service_request_id": "SR000132",
+    "case_closed_at": "2025-03-10T17:53:16Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-03-10T18:35:16Z"
+  },
+  {
+    "closure_id": "CLS000110",
+    "service_request_id": "SR000134",
+    "case_closed_at": "2024-02-26T10:03:38Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-02-26T10:37:38Z"
+  },
+  {
+    "closure_id": "CLS000111",
+    "service_request_id": "SR000135",
+    "case_closed_at": "2024-04-06T11:30:09Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-04-06T12:06:09Z"
+  },
+  {
+    "closure_id": "CLS000112",
+    "service_request_id": "SR000136",
+    "case_closed_at": "2024-10-04T20:27:38Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-04T21:04:38Z"
+  },
+  {
+    "closure_id": "CLS000113",
+    "service_request_id": "SR000137",
+    "case_closed_at": "2024-06-29T02:34:12Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-06-29T02:58:12Z"
+  },
+  {
+    "closure_id": "CLS000114",
+    "service_request_id": "SR000138",
+    "case_closed_at": "2024-12-18T22:14:42Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-12-18T22:41:42Z"
+  },
+  {
+    "closure_id": "CLS000115",
+    "service_request_id": "SR000139",
+    "case_closed_at": "2025-01-05T13:19:26Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2025-01-05T13:58:26Z"
+  },
+  {
+    "closure_id": "CLS000116",
+    "service_request_id": "SR000140",
+    "case_closed_at": "2024-01-07T00:05:57Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-01-07T00:34:57Z"
+  },
+  {
+    "closure_id": "CLS000117",
+    "service_request_id": "SR000141",
+    "case_closed_at": "2025-04-26T17:11:51Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-04-26T17:50:51Z"
+  },
+  {
+    "closure_id": "CLS000118",
+    "service_request_id": "SR000144",
+    "case_closed_at": "2025-05-19T06:11:09Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-05-19T06:47:09Z"
+  },
+  {
+    "closure_id": "CLS000119",
+    "service_request_id": "SR000145",
+    "case_closed_at": "2025-02-10T17:02:17Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-02-10T17:38:17Z"
+  },
+  {
+    "closure_id": "CLS000120",
+    "service_request_id": "SR000148",
+    "case_closed_at": "2025-03-31T14:23:41Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-03-31T14:49:41Z"
+  },
+  {
+    "closure_id": "CLS000121",
+    "service_request_id": "SR000149",
+    "case_closed_at": "2024-08-20T09:30:48Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-08-20T10:23:48Z"
+  },
+  {
+    "closure_id": "CLS000122",
+    "service_request_id": "SR000150",
+    "case_closed_at": "2025-02-28T15:13:20Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-02-28T15:55:20Z"
+  },
+  {
+    "closure_id": "CLS000123",
+    "service_request_id": "SR000151",
+    "case_closed_at": "2025-02-06T18:48:51Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-02-06T19:15:51Z"
+  },
+  {
+    "closure_id": "CLS000124",
+    "service_request_id": "SR000152",
+    "case_closed_at": "2025-05-14T18:04:03Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-05-14T18:54:03Z"
+  },
+  {
+    "closure_id": "CLS000125",
+    "service_request_id": "SR000153",
+    "case_closed_at": "2024-02-10T05:12:19Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-02-10T05:41:19Z"
+  },
+  {
+    "closure_id": "CLS000126",
+    "service_request_id": "SR000154",
+    "case_closed_at": "2024-07-22T11:57:52Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-22T12:46:52Z"
+  },
+  {
+    "closure_id": "CLS000127",
+    "service_request_id": "SR000155",
+    "case_closed_at": "2024-05-18T04:10:47Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-05-18T04:34:47Z"
+  },
+  {
+    "closure_id": "CLS000128",
+    "service_request_id": "SR000156",
+    "case_closed_at": "2024-05-26T01:36:44Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-05-26T01:53:44Z"
+  },
+  {
+    "closure_id": "CLS000129",
+    "service_request_id": "SR000157",
+    "case_closed_at": "2024-09-06T05:01:28Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-09-06T05:16:28Z"
+  },
+  {
+    "closure_id": "CLS000130",
+    "service_request_id": "SR000158",
+    "case_closed_at": "2025-06-13T16:35:03Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-06-13T17:02:03Z"
+  },
+  {
+    "closure_id": "CLS000131",
+    "service_request_id": "SR000161",
+    "case_closed_at": "2025-01-04T13:30:33Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-01-04T14:13:33Z"
+  },
+  {
+    "closure_id": "CLS000132",
+    "service_request_id": "SR000162",
+    "case_closed_at": "2024-07-28T05:04:58Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-07-28T05:23:58Z"
+  },
+  {
+    "closure_id": "CLS000133",
+    "service_request_id": "SR000163",
+    "case_closed_at": "2025-05-20T04:17:51Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-05-20T05:00:51Z"
+  },
+  {
+    "closure_id": "CLS000134",
+    "service_request_id": "SR000164",
+    "case_closed_at": "2025-06-22T19:51:10Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-06-22T20:39:10Z"
+  },
+  {
+    "closure_id": "CLS000135",
+    "service_request_id": "SR000166",
+    "case_closed_at": "2024-05-14T11:55:26Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-05-14T12:43:26Z"
+  },
+  {
+    "closure_id": "CLS000136",
+    "service_request_id": "SR000167",
+    "case_closed_at": "2024-07-11T04:57:35Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-11T05:03:35Z"
+  },
+  {
+    "closure_id": "CLS000137",
+    "service_request_id": "SR000168",
+    "case_closed_at": "2025-01-29T11:52:31Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-01-29T12:44:31Z"
+  },
+  {
+    "closure_id": "CLS000138",
+    "service_request_id": "SR000169",
+    "case_closed_at": "2025-01-30T12:54:53Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-01-30T13:51:53Z"
+  },
+  {
+    "closure_id": "CLS000139",
+    "service_request_id": "SR000170",
+    "case_closed_at": "2025-01-15T18:00:53Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-01-15T18:21:53Z"
+  },
+  {
+    "closure_id": "CLS000140",
+    "service_request_id": "SR000171",
+    "case_closed_at": "2024-10-07T05:09:30Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-10-07T05:14:30Z"
+  },
+  {
+    "closure_id": "CLS000141",
+    "service_request_id": "SR000172",
+    "case_closed_at": "2025-02-18T08:32:18Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-02-18T08:54:18Z"
+  },
+  {
+    "closure_id": "CLS000142",
+    "service_request_id": "SR000173",
+    "case_closed_at": "2024-08-08T23:57:50Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-08-09T00:15:50Z"
+  },
+  {
+    "closure_id": "CLS000143",
+    "service_request_id": "SR000174",
+    "case_closed_at": "2024-09-16T17:15:11Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-09-16T18:13:11Z"
+  },
+  {
+    "closure_id": "CLS000144",
+    "service_request_id": "SR000176",
+    "case_closed_at": "2024-01-26T08:45:53Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": true,
+    "updated_at": "2024-01-26T09:00:53Z"
+  },
+  {
+    "closure_id": "CLS000145",
+    "service_request_id": "SR000177",
+    "case_closed_at": "2024-11-15T22:32:59Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-11-15T23:14:59Z"
+  },
+  {
+    "closure_id": "CLS000146",
+    "service_request_id": "SR000178",
+    "case_closed_at": "2025-01-22T07:36:03Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-01-22T08:18:03Z"
+  },
+  {
+    "closure_id": "CLS000147",
+    "service_request_id": "SR000180",
+    "case_closed_at": "2024-04-17T23:28:01Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-04-18T00:00:01Z"
+  },
+  {
+    "closure_id": "CLS000148",
+    "service_request_id": "SR000181",
+    "case_closed_at": "2024-01-12T07:10:26Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-01-12T07:40:26Z"
+  },
+  {
+    "closure_id": "CLS000149",
+    "service_request_id": "SR000182",
+    "case_closed_at": "2025-04-11T21:48:48Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-04-11T22:44:48Z"
+  },
+  {
+    "closure_id": "CLS000150",
+    "service_request_id": "SR000183",
+    "case_closed_at": "2025-02-11T10:58:43Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-02-11T11:38:43Z"
+  },
+  {
+    "closure_id": "CLS000151",
+    "service_request_id": "SR000184",
+    "case_closed_at": "2024-07-28T08:48:15Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-07-28T09:19:15Z"
+  },
+  {
+    "closure_id": "CLS000152",
+    "service_request_id": "SR000186",
+    "case_closed_at": "2024-05-12T17:15:25Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-05-12T17:29:25Z"
+  },
+  {
+    "closure_id": "CLS000153",
+    "service_request_id": "SR000187",
+    "case_closed_at": "2025-01-05T05:31:41Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-01-05T05:38:41Z"
+  },
+  {
+    "closure_id": "CLS000154",
+    "service_request_id": "SR000188",
+    "case_closed_at": "2025-03-08T06:16:35Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-03-08T07:11:35Z"
+  },
+  {
+    "closure_id": "CLS000155",
+    "service_request_id": "SR000189",
+    "case_closed_at": "2025-06-30T03:34:52Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-06-30T04:05:52Z"
+  },
+  {
+    "closure_id": "CLS000156",
+    "service_request_id": "SR000191",
+    "case_closed_at": "2024-07-17T13:50:14Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-07-17T14:45:14Z"
+  },
+  {
+    "closure_id": "CLS000157",
+    "service_request_id": "SR000192",
+    "case_closed_at": "2025-05-08T06:29:42Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-05-08T06:35:42Z"
+  },
+  {
+    "closure_id": "CLS000158",
+    "service_request_id": "SR000194",
+    "case_closed_at": "2024-02-28T00:33:32Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-02-28T01:25:32Z"
+  },
+  {
+    "closure_id": "CLS000159",
+    "service_request_id": "SR000195",
+    "case_closed_at": "2024-10-14T01:15:09Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-14T01:52:09Z"
+  },
+  {
+    "closure_id": "CLS000160",
+    "service_request_id": "SR000196",
+    "case_closed_at": "2024-04-12T08:27:02Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-04-12T08:54:02Z"
+  },
+  {
+    "closure_id": "CLS000161",
+    "service_request_id": "SR000197",
+    "case_closed_at": "2024-06-25T13:12:50Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2024-06-25T14:05:50Z"
+  },
+  {
+    "closure_id": "CLS000162",
+    "service_request_id": "SR000198",
+    "case_closed_at": "2025-06-04T16:48:54Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-06-04T17:38:54Z"
+  },
+  {
+    "closure_id": "CLS000163",
+    "service_request_id": "SR000199",
+    "case_closed_at": "2024-10-26T18:05:29Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-10-26T18:16:29Z"
+  },
+  {
+    "closure_id": "CLS000164",
+    "service_request_id": "SR000200",
+    "case_closed_at": "2024-07-08T16:44:50Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-08T17:11:50Z"
+  },
+  {
+    "closure_id": "CLS000165",
+    "service_request_id": "SR000201",
+    "case_closed_at": "2024-03-08T07:37:19Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-03-08T08:35:19Z"
+  },
+  {
+    "closure_id": "CLS000166",
+    "service_request_id": "SR000202",
+    "case_closed_at": "2024-07-08T08:58:40Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-08T09:19:40Z"
+  },
+  {
+    "closure_id": "CLS000167",
+    "service_request_id": "SR000203",
+    "case_closed_at": "2024-08-16T22:49:20Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-08-16T23:23:20Z"
+  },
+  {
+    "closure_id": "CLS000168",
+    "service_request_id": "SR000204",
+    "case_closed_at": "2025-04-06T11:16:04Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2025-04-06T12:09:04Z"
+  },
+  {
+    "closure_id": "CLS000169",
+    "service_request_id": "SR000205",
+    "case_closed_at": "2024-11-29T06:07:07Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-11-29T06:42:07Z"
+  },
+  {
+    "closure_id": "CLS000170",
+    "service_request_id": "SR000207",
+    "case_closed_at": "2024-11-10T03:00:59Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-11-10T03:58:59Z"
+  },
+  {
+    "closure_id": "CLS000171",
+    "service_request_id": "SR000208",
+    "case_closed_at": "2025-05-22T22:28:59Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-05-22T22:37:59Z"
+  },
+  {
+    "closure_id": "CLS000172",
+    "service_request_id": "SR000209",
+    "case_closed_at": "2025-02-14T22:47:08Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-02-14T22:57:08Z"
+  },
+  {
+    "closure_id": "CLS000173",
+    "service_request_id": "SR000210",
+    "case_closed_at": "2025-02-19T10:10:35Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-02-19T10:17:35Z"
+  },
+  {
+    "closure_id": "CLS000174",
+    "service_request_id": "SR000211",
+    "case_closed_at": "2025-06-16T00:45:59Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-06-16T01:05:59Z"
+  },
+  {
+    "closure_id": "CLS000175",
+    "service_request_id": "SR000213",
+    "case_closed_at": "2025-03-25T05:11:04Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-03-25T05:54:04Z"
+  },
+  {
+    "closure_id": "CLS000176",
+    "service_request_id": "SR000214",
+    "case_closed_at": "2024-03-02T01:45:46Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": true,
+    "updated_at": "2024-03-02T01:57:46Z"
+  },
+  {
+    "closure_id": "CLS000177",
+    "service_request_id": "SR000219",
+    "case_closed_at": "2025-02-11T10:14:25Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-02-11T10:47:25Z"
+  },
+  {
+    "closure_id": "CLS000178",
+    "service_request_id": "SR000220",
+    "case_closed_at": "2024-04-04T02:26:50Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-04-04T02:39:50Z"
+  },
+  {
+    "closure_id": "CLS000179",
+    "service_request_id": "SR000223",
+    "case_closed_at": "2024-08-23T08:43:57Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-08-23T09:01:57Z"
+  },
+  {
+    "closure_id": "CLS000180",
+    "service_request_id": "SR000226",
+    "case_closed_at": "2025-07-07T03:24:51Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-07-07T03:49:51Z"
+  },
+  {
+    "closure_id": "CLS000181",
+    "service_request_id": "SR000227",
+    "case_closed_at": "2025-03-15T13:46:49Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-03-15T14:37:49Z"
+  },
+  {
+    "closure_id": "CLS000182",
+    "service_request_id": "SR000228",
+    "case_closed_at": "2025-01-18T14:52:36Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-01-18T15:01:36Z"
+  },
+  {
+    "closure_id": "CLS000183",
+    "service_request_id": "SR000230",
+    "case_closed_at": "2024-08-02T23:10:06Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-08-03T00:10:06Z"
+  },
+  {
+    "closure_id": "CLS000184",
+    "service_request_id": "SR000233",
+    "case_closed_at": "2024-01-28T03:52:13Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-01-28T04:33:13Z"
+  },
+  {
+    "closure_id": "CLS000185",
+    "service_request_id": "SR000234",
+    "case_closed_at": "2024-06-11T00:52:36Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-06-11T01:08:36Z"
+  },
+  {
+    "closure_id": "CLS000186",
+    "service_request_id": "SR000235",
+    "case_closed_at": "2024-11-06T15:45:56Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2024-11-06T16:12:56Z"
+  },
+  {
+    "closure_id": "CLS000187",
+    "service_request_id": "SR000236",
+    "case_closed_at": "2024-05-20T14:15:33Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-05-20T14:24:33Z"
+  },
+  {
+    "closure_id": "CLS000188",
+    "service_request_id": "SR000237",
+    "case_closed_at": "2024-09-03T10:06:27Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-09-03T10:35:27Z"
+  },
+  {
+    "closure_id": "CLS000189",
+    "service_request_id": "SR000238",
+    "case_closed_at": "2025-02-03T01:22:01Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-02-03T02:19:01Z"
+  },
+  {
+    "closure_id": "CLS000190",
+    "service_request_id": "SR000239",
+    "case_closed_at": "2024-07-29T01:59:20Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-07-29T02:24:20Z"
+  },
+  {
+    "closure_id": "CLS000191",
+    "service_request_id": "SR000240",
+    "case_closed_at": "2024-04-22T19:43:48Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-04-22T20:18:48Z"
+  },
+  {
+    "closure_id": "CLS000192",
+    "service_request_id": "SR000241",
+    "case_closed_at": "2024-06-25T08:42:37Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-06-25T08:51:37Z"
+  },
+  {
+    "closure_id": "CLS000193",
+    "service_request_id": "SR000242",
+    "case_closed_at": "2025-01-28T21:24:02Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-01-28T21:59:02Z"
+  },
+  {
+    "closure_id": "CLS000194",
+    "service_request_id": "SR000243",
+    "case_closed_at": "2024-09-04T23:40:55Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-09-05T00:02:55Z"
+  },
+  {
+    "closure_id": "CLS000195",
+    "service_request_id": "SR000244",
+    "case_closed_at": "2024-10-22T17:31:52Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-10-22T17:55:52Z"
+  },
+  {
+    "closure_id": "CLS000196",
+    "service_request_id": "SR000245",
+    "case_closed_at": "2024-12-18T10:32:20Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-12-18T10:42:20Z"
+  },
+  {
+    "closure_id": "CLS000197",
+    "service_request_id": "SR000246",
+    "case_closed_at": "2024-10-21T03:53:51Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-10-21T04:06:51Z"
+  },
+  {
+    "closure_id": "CLS000198",
+    "service_request_id": "SR000247",
+    "case_closed_at": "2024-10-06T04:02:07Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-10-06T04:21:07Z"
+  },
+  {
+    "closure_id": "CLS000199",
+    "service_request_id": "SR000248",
+    "case_closed_at": "2024-08-01T10:55:13Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-08-01T11:23:13Z"
+  },
+  {
+    "closure_id": "CLS000200",
+    "service_request_id": "SR000249",
+    "case_closed_at": "2024-09-10T16:26:45Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-09-10T17:22:45Z"
+  },
+  {
+    "closure_id": "CLS000201",
+    "service_request_id": "SR000250",
+    "case_closed_at": "2024-01-25T18:17:28Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-01-25T18:39:28Z"
+  },
+  {
+    "closure_id": "CLS000202",
+    "service_request_id": "SR000252",
+    "case_closed_at": "2024-08-02T10:04:30Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-08-02T10:28:30Z"
+  },
+  {
+    "closure_id": "CLS000203",
+    "service_request_id": "SR000255",
+    "case_closed_at": "2025-04-18T10:09:25Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-04-18T10:57:25Z"
+  },
+  {
+    "closure_id": "CLS000204",
+    "service_request_id": "SR000256",
+    "case_closed_at": "2024-02-03T06:01:48Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-02-03T06:21:48Z"
+  },
+  {
+    "closure_id": "CLS000205",
+    "service_request_id": "SR000257",
+    "case_closed_at": "2024-10-21T06:52:30Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-10-21T07:35:30Z"
+  },
+  {
+    "closure_id": "CLS000206",
+    "service_request_id": "SR000258",
+    "case_closed_at": "2025-03-24T13:59:47Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2025-03-24T14:47:47Z"
+  },
+  {
+    "closure_id": "CLS000207",
+    "service_request_id": "SR000259",
+    "case_closed_at": "2025-02-20T09:13:12Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2025-02-20T10:07:12Z"
+  },
+  {
+    "closure_id": "CLS000208",
+    "service_request_id": "SR000260",
+    "case_closed_at": "2025-06-03T21:18:46Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-06-03T21:38:46Z"
+  },
+  {
+    "closure_id": "CLS000209",
+    "service_request_id": "SR000261",
+    "case_closed_at": "2024-07-27T11:57:34Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-07-27T12:27:34Z"
+  },
+  {
+    "closure_id": "CLS000210",
+    "service_request_id": "SR000262",
+    "case_closed_at": "2025-06-25T15:04:26Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2025-06-25T15:35:26Z"
+  },
+  {
+    "closure_id": "CLS000211",
+    "service_request_id": "SR000263",
+    "case_closed_at": "2025-05-02T02:32:34Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-05-02T03:30:34Z"
+  },
+  {
+    "closure_id": "CLS000212",
+    "service_request_id": "SR000264",
+    "case_closed_at": "2025-04-29T14:22:16Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-04-29T14:55:16Z"
+  },
+  {
+    "closure_id": "CLS000213",
+    "service_request_id": "SR000265",
+    "case_closed_at": "2025-06-07T15:59:29Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-06-07T16:06:29Z"
+  },
+  {
+    "closure_id": "CLS000214",
+    "service_request_id": "SR000266",
+    "case_closed_at": "2025-06-16T12:25:02Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": true,
+    "updated_at": "2025-06-16T12:36:02Z"
+  },
+  {
+    "closure_id": "CLS000215",
+    "service_request_id": "SR000267",
+    "case_closed_at": "2024-06-21T10:46:27Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-06-21T10:52:27Z"
+  },
+  {
+    "closure_id": "CLS000216",
+    "service_request_id": "SR000268",
+    "case_closed_at": "2024-10-18T09:21:54Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-18T09:30:54Z"
+  },
+  {
+    "closure_id": "CLS000217",
+    "service_request_id": "SR000269",
+    "case_closed_at": "2024-09-10T15:46:45Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-09-10T16:08:45Z"
+  },
+  {
+    "closure_id": "CLS000218",
+    "service_request_id": "SR000270",
+    "case_closed_at": "2025-04-06T12:02:50Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-04-06T12:50:50Z"
+  },
+  {
+    "closure_id": "CLS000219",
+    "service_request_id": "SR000271",
+    "case_closed_at": "2025-05-28T13:16:52Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2025-05-28T13:33:52Z"
+  },
+  {
+    "closure_id": "CLS000220",
+    "service_request_id": "SR000272",
+    "case_closed_at": "2025-04-24T20:38:04Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-04-24T21:24:04Z"
+  },
+  {
+    "closure_id": "CLS000221",
+    "service_request_id": "SR000273",
+    "case_closed_at": "2024-05-16T09:26:18Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-05-16T09:58:18Z"
+  },
+  {
+    "closure_id": "CLS000222",
+    "service_request_id": "SR000275",
+    "case_closed_at": "2024-09-10T11:45:55Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-09-10T12:02:55Z"
+  },
+  {
+    "closure_id": "CLS000223",
+    "service_request_id": "SR000276",
+    "case_closed_at": "2024-12-19T06:41:55Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-12-19T07:03:55Z"
+  },
+  {
+    "closure_id": "CLS000224",
+    "service_request_id": "SR000278",
+    "case_closed_at": "2024-05-02T14:04:34Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-05-02T14:29:34Z"
+  },
+  {
+    "closure_id": "CLS000225",
+    "service_request_id": "SR000279",
+    "case_closed_at": "2025-05-24T22:55:34Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-05-24T23:09:34Z"
+  },
+  {
+    "closure_id": "CLS000226",
+    "service_request_id": "SR000280",
+    "case_closed_at": "2025-01-31T03:24:40Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-01-31T04:02:40Z"
+  },
+  {
+    "closure_id": "CLS000227",
+    "service_request_id": "SR000281",
+    "case_closed_at": "2024-09-11T15:36:29Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-09-11T16:22:29Z"
+  },
+  {
+    "closure_id": "CLS000228",
+    "service_request_id": "SR000282",
+    "case_closed_at": "2024-07-12T03:12:33Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-07-12T03:49:33Z"
+  },
+  {
+    "closure_id": "CLS000229",
+    "service_request_id": "SR000284",
+    "case_closed_at": "2024-06-30T23:25:27Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-01T00:25:27Z"
+  },
+  {
+    "closure_id": "CLS000230",
+    "service_request_id": "SR000285",
+    "case_closed_at": "2024-02-20T17:17:42Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-02-20T17:40:42Z"
+  },
+  {
+    "closure_id": "CLS000231",
+    "service_request_id": "SR000287",
+    "case_closed_at": "2024-03-23T12:16:40Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-03-23T12:21:40Z"
+  },
+  {
+    "closure_id": "CLS000232",
+    "service_request_id": "SR000289",
+    "case_closed_at": "2024-05-16T19:09:38Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-05-16T19:19:38Z"
+  },
+  {
+    "closure_id": "CLS000233",
+    "service_request_id": "SR000290",
+    "case_closed_at": "2024-04-27T11:06:10Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-04-27T11:48:10Z"
+  },
+  {
+    "closure_id": "CLS000234",
+    "service_request_id": "SR000291",
+    "case_closed_at": "2024-02-28T18:00:28Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-02-28T18:20:28Z"
+  },
+  {
+    "closure_id": "CLS000235",
+    "service_request_id": "SR000292",
+    "case_closed_at": "2024-03-09T06:41:17Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-03-09T07:38:17Z"
+  },
+  {
+    "closure_id": "CLS000236",
+    "service_request_id": "SR000294",
+    "case_closed_at": "2024-08-20T09:45:45Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2024-08-20T10:02:45Z"
+  },
+  {
+    "closure_id": "CLS000237",
+    "service_request_id": "SR000295",
+    "case_closed_at": "2024-03-30T20:58:22Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-03-30T21:20:22Z"
+  },
+  {
+    "closure_id": "CLS000238",
+    "service_request_id": "SR000296",
+    "case_closed_at": "2024-04-30T06:17:39Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-04-30T07:10:39Z"
+  },
+  {
+    "closure_id": "CLS000239",
+    "service_request_id": "SR000299",
+    "case_closed_at": "2024-06-22T08:42:09Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-06-22T09:30:09Z"
+  },
+  {
+    "closure_id": "CLS000240",
+    "service_request_id": "SR000300",
+    "case_closed_at": "2024-08-06T08:38:03Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-08-06T08:46:03Z"
+  },
+  {
+    "closure_id": "CLS000241",
+    "service_request_id": "SR000301",
+    "case_closed_at": "2024-08-22T14:09:29Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-08-22T14:57:29Z"
+  },
+  {
+    "closure_id": "CLS000242",
+    "service_request_id": "SR000302",
+    "case_closed_at": "2024-03-14T13:36:11Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 2,
+    "reopen_flag": false,
+    "updated_at": "2024-03-14T14:31:11Z"
+  },
+  {
+    "closure_id": "CLS000243",
+    "service_request_id": "SR000303",
+    "case_closed_at": "2024-05-22T18:35:42Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": true,
+    "updated_at": "2024-05-22T18:56:42Z"
+  },
+  {
+    "closure_id": "CLS000244",
+    "service_request_id": "SR000304",
+    "case_closed_at": "2024-01-12T22:14:35Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-01-12T22:38:35Z"
+  },
+  {
+    "closure_id": "CLS000245",
+    "service_request_id": "SR000305",
+    "case_closed_at": "2025-05-15T21:31:28Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": true,
+    "updated_at": "2025-05-15T21:47:28Z"
+  },
+  {
+    "closure_id": "CLS000246",
+    "service_request_id": "SR000306",
+    "case_closed_at": "2025-01-01T09:17:13Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-01-01T09:45:13Z"
+  },
+  {
+    "closure_id": "CLS000247",
+    "service_request_id": "SR000307",
+    "case_closed_at": "2024-03-21T00:08:01Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": true,
+    "updated_at": "2024-03-21T00:15:01Z"
+  },
+  {
+    "closure_id": "CLS000248",
+    "service_request_id": "SR000308",
+    "case_closed_at": "2024-06-19T21:02:07Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-06-19T21:43:07Z"
+  },
+  {
+    "closure_id": "CLS000249",
+    "service_request_id": "SR000309",
+    "case_closed_at": "2025-05-12T10:40:26Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-05-12T11:24:26Z"
+  },
+  {
+    "closure_id": "CLS000250",
+    "service_request_id": "SR000310",
+    "case_closed_at": "2024-10-23T17:59:31Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-23T18:39:31Z"
+  },
+  {
+    "closure_id": "CLS000251",
+    "service_request_id": "SR000312",
+    "case_closed_at": "2024-03-28T03:48:57Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-03-28T04:05:57Z"
+  },
+  {
+    "closure_id": "CLS000252",
+    "service_request_id": "SR000313",
+    "case_closed_at": "2024-12-13T15:12:09Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-12-13T15:18:09Z"
+  },
+  {
+    "closure_id": "CLS000253",
+    "service_request_id": "SR000316",
+    "case_closed_at": "2024-08-16T02:59:20Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-08-16T03:43:20Z"
+  },
+  {
+    "closure_id": "CLS000254",
+    "service_request_id": "SR000317",
+    "case_closed_at": "2024-03-26T14:47:59Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-03-26T15:33:59Z"
+  },
+  {
+    "closure_id": "CLS000255",
+    "service_request_id": "SR000318",
+    "case_closed_at": "2024-03-03T14:14:26Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-03-03T15:05:26Z"
+  },
+  {
+    "closure_id": "CLS000256",
+    "service_request_id": "SR000319",
+    "case_closed_at": "2024-10-29T04:53:37Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-29T05:16:37Z"
+  },
+  {
+    "closure_id": "CLS000257",
+    "service_request_id": "SR000320",
+    "case_closed_at": "2024-01-17T07:05:55Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-01-17T08:03:55Z"
+  },
+  {
+    "closure_id": "CLS000258",
+    "service_request_id": "SR000321",
+    "case_closed_at": "2024-10-21T15:06:43Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-10-21T15:36:43Z"
+  },
+  {
+    "closure_id": "CLS000259",
+    "service_request_id": "SR000322",
+    "case_closed_at": "2024-04-13T23:44:39Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-04-14T00:14:39Z"
+  },
+  {
+    "closure_id": "CLS000260",
+    "service_request_id": "SR000324",
+    "case_closed_at": "2024-04-02T23:54:09Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-04-03T00:23:09Z"
+  },
+  {
+    "closure_id": "CLS000261",
+    "service_request_id": "SR000325",
+    "case_closed_at": "2024-06-11T13:59:44Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-06-11T14:47:44Z"
+  },
+  {
+    "closure_id": "CLS000262",
+    "service_request_id": "SR000326",
+    "case_closed_at": "2024-05-22T22:16:51Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-05-22T22:26:51Z"
+  },
+  {
+    "closure_id": "CLS000263",
+    "service_request_id": "SR000327",
+    "case_closed_at": "2024-12-03T03:21:51Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-12-03T03:46:51Z"
+  },
+  {
+    "closure_id": "CLS000264",
+    "service_request_id": "SR000328",
+    "case_closed_at": "2024-05-11T03:06:00Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-05-11T03:32:00Z"
+  },
+  {
+    "closure_id": "CLS000265",
+    "service_request_id": "SR000330",
+    "case_closed_at": "2024-03-29T11:47:11Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-03-29T12:24:11Z"
+  },
+  {
+    "closure_id": "CLS000266",
+    "service_request_id": "SR000331",
+    "case_closed_at": "2025-01-02T08:07:36Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-01-02T08:26:36Z"
+  },
+  {
+    "closure_id": "CLS000267",
+    "service_request_id": "SR000332",
+    "case_closed_at": "2024-03-23T13:16:28Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-03-23T13:34:28Z"
+  },
+  {
+    "closure_id": "CLS000268",
+    "service_request_id": "SR000333",
+    "case_closed_at": "2024-06-25T14:00:20Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-06-25T14:23:20Z"
+  },
+  {
+    "closure_id": "CLS000269",
+    "service_request_id": "SR000335",
+    "case_closed_at": "2025-04-15T20:24:32Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-04-15T21:00:32Z"
+  },
+  {
+    "closure_id": "CLS000270",
+    "service_request_id": "SR000336",
+    "case_closed_at": "2024-06-26T22:36:50Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-06-26T23:17:50Z"
+  },
+  {
+    "closure_id": "CLS000271",
+    "service_request_id": "SR000337",
+    "case_closed_at": "2025-03-24T05:37:48Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-03-24T06:08:48Z"
+  },
+  {
+    "closure_id": "CLS000272",
+    "service_request_id": "SR000338",
+    "case_closed_at": "2024-09-21T16:06:14Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-09-21T16:41:14Z"
+  },
+  {
+    "closure_id": "CLS000273",
+    "service_request_id": "SR000339",
+    "case_closed_at": "2024-02-04T08:47:47Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-02-04T09:41:47Z"
+  },
+  {
+    "closure_id": "CLS000274",
+    "service_request_id": "SR000340",
+    "case_closed_at": "2024-04-23T20:04:50Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-04-23T20:29:50Z"
+  },
+  {
+    "closure_id": "CLS000275",
+    "service_request_id": "SR000342",
+    "case_closed_at": "2025-03-13T23:15:59Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-03-13T23:22:59Z"
+  },
+  {
+    "closure_id": "CLS000276",
+    "service_request_id": "SR000343",
+    "case_closed_at": "2025-04-10T03:35:35Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-04-10T03:54:35Z"
+  },
+  {
+    "closure_id": "CLS000277",
+    "service_request_id": "SR000345",
+    "case_closed_at": "2025-04-07T10:03:48Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-04-07T10:23:48Z"
+  },
+  {
+    "closure_id": "CLS000278",
+    "service_request_id": "SR000347",
+    "case_closed_at": "2024-07-10T15:30:04Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-07-10T16:00:04Z"
+  },
+  {
+    "closure_id": "CLS000279",
+    "service_request_id": "SR000348",
+    "case_closed_at": "2024-05-02T08:04:20Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-05-02T08:26:20Z"
+  },
+  {
+    "closure_id": "CLS000280",
+    "service_request_id": "SR000349",
+    "case_closed_at": "2024-08-10T11:18:11Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-08-10T11:35:11Z"
+  },
+  {
+    "closure_id": "CLS000281",
+    "service_request_id": "SR000350",
+    "case_closed_at": "2024-10-21T22:56:38Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-10-21T23:33:38Z"
+  },
+  {
+    "closure_id": "CLS000282",
+    "service_request_id": "SR000009",
+    "case_closed_at": "2024-10-16T04:40:27Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-10-16T05:31:27Z"
+  },
+  {
+    "closure_id": "CLS000283",
+    "service_request_id": "SR000011",
+    "case_closed_at": "2025-05-14T01:45:16Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2025-05-14T02:06:16Z"
+  },
+  {
+    "closure_id": "CLS000284",
+    "service_request_id": "SR000016",
+    "case_closed_at": "2024-10-20T07:07:12Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-20T08:07:12Z"
+  },
+  {
+    "closure_id": "CLS000285",
+    "service_request_id": "SR000019",
+    "case_closed_at": "2024-10-03T01:48:38Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-10-03T02:11:38Z"
+  },
+  {
+    "closure_id": "CLS000286",
+    "service_request_id": "SR000020",
+    "case_closed_at": "2024-10-09T22:28:20Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-10-09T23:07:20Z"
+  },
+  {
+    "closure_id": "CLS000287",
+    "service_request_id": "SR000021",
+    "case_closed_at": "2024-06-28T00:47:28Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-06-28T01:29:28Z"
+  },
+  {
+    "closure_id": "CLS000288",
+    "service_request_id": "SR000026",
+    "case_closed_at": "2024-11-02T21:51:01Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-11-02T22:48:01Z"
+  },
+  {
+    "closure_id": "CLS000289",
+    "service_request_id": "SR000031",
+    "case_closed_at": "2024-01-17T22:43:28Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-01-17T22:59:28Z"
+  },
+  {
+    "closure_id": "CLS000290",
+    "service_request_id": "SR000039",
+    "case_closed_at": "2024-01-29T13:26:30Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-01-29T13:58:30Z"
+  },
+  {
+    "closure_id": "CLS000291",
+    "service_request_id": "SR000050",
+    "case_closed_at": "2024-03-27T15:28:00Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-03-27T15:37:00Z"
+  },
+  {
+    "closure_id": "CLS000292",
+    "service_request_id": "SR000051",
+    "case_closed_at": "2025-02-27T17:14:52Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-02-27T18:09:52Z"
+  },
+  {
+    "closure_id": "CLS000293",
+    "service_request_id": "SR000052",
+    "case_closed_at": "2024-01-11T16:19:21Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-01-11T17:01:21Z"
+  },
+  {
+    "closure_id": "CLS000294",
+    "service_request_id": "SR000054",
+    "case_closed_at": "2024-05-19T07:27:12Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-05-19T08:03:12Z"
+  },
+  {
+    "closure_id": "CLS000295",
+    "service_request_id": "SR000058",
+    "case_closed_at": "2024-05-24T00:36:45Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-05-24T01:17:45Z"
+  },
+  {
+    "closure_id": "CLS000296",
+    "service_request_id": "SR000065",
+    "case_closed_at": "2024-02-02T17:46:16Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-02-02T17:51:16Z"
+  },
+  {
+    "closure_id": "CLS000297",
+    "service_request_id": "SR000066",
+    "case_closed_at": "2024-09-23T04:22:18Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-09-23T05:08:18Z"
+  },
+  {
+    "closure_id": "CLS000298",
+    "service_request_id": "SR000070",
+    "case_closed_at": "2024-05-08T23:54:40Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-05-08T23:59:40Z"
+  },
+  {
+    "closure_id": "CLS000299",
+    "service_request_id": "SR000077",
+    "case_closed_at": "2024-11-03T00:56:38Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2024-11-03T01:53:38Z"
+  },
+  {
+    "closure_id": "CLS000300",
+    "service_request_id": "SR000092",
+    "case_closed_at": "2024-11-13T02:32:07Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-11-13T02:55:07Z"
+  },
+  {
+    "closure_id": "CLS000301",
+    "service_request_id": "SR000111",
+    "case_closed_at": "2024-12-27T15:46:54Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-12-27T16:14:54Z"
+  },
+  {
+    "closure_id": "CLS000302",
+    "service_request_id": "SR000113",
+    "case_closed_at": "2025-01-16T10:21:45Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-01-16T10:37:45Z"
+  },
+  {
+    "closure_id": "CLS000303",
+    "service_request_id": "SR000115",
+    "case_closed_at": "2025-02-17T01:11:42Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2025-02-17T01:23:42Z"
+  },
+  {
+    "closure_id": "CLS000304",
+    "service_request_id": "SR000120",
+    "case_closed_at": "2024-06-21T10:21:18Z",
+    "closure_reason": "Out of Warranty",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-06-21T10:31:18Z"
+  },
+  {
+    "closure_id": "CLS000305",
+    "service_request_id": "SR000133",
+    "case_closed_at": "2025-02-19T21:23:24Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-02-19T21:42:24Z"
+  },
+  {
+    "closure_id": "CLS000306",
+    "service_request_id": "SR000142",
+    "case_closed_at": "2024-06-03T08:36:00Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-06-03T09:17:00Z"
+  },
+  {
+    "closure_id": "CLS000307",
+    "service_request_id": "SR000143",
+    "case_closed_at": "2024-12-02T21:54:55Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-12-02T22:28:55Z"
+  },
+  {
+    "closure_id": "CLS000308",
+    "service_request_id": "SR000146",
+    "case_closed_at": "2025-02-09T12:48:16Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-02-09T13:35:16Z"
+  },
+  {
+    "closure_id": "CLS000309",
+    "service_request_id": "SR000147",
+    "case_closed_at": "2024-07-19T04:53:11Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2024-07-19T05:19:11Z"
+  },
+  {
+    "closure_id": "CLS000310",
+    "service_request_id": "SR000159",
+    "case_closed_at": "2025-04-30T08:56:50Z",
+    "closure_reason": "Issue Resolved",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2025-04-30T09:38:50Z"
+  },
+  {
+    "closure_id": "CLS000311",
+    "service_request_id": "SR000160",
+    "case_closed_at": "2024-12-20T23:14:01Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-12-20T23:59:01Z"
+  },
+  {
+    "closure_id": "CLS000312",
+    "service_request_id": "SR000165",
+    "case_closed_at": "2024-09-24T21:04:47Z",
+    "closure_reason": "System Exchanged",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2024-09-24T21:35:47Z"
+  },
+  {
+    "closure_id": "CLS000313",
+    "service_request_id": "SR000175",
+    "case_closed_at": "2024-12-02T19:42:12Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": true,
+    "updated_at": "2024-12-02T20:40:12Z"
+  },
+  {
+    "closure_id": "CLS000314",
+    "service_request_id": "SR000179",
+    "case_closed_at": "2025-05-15T07:13:17Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": true,
+    "updated_at": "2025-05-15T07:30:17Z"
+  },
+  {
+    "closure_id": "CLS000315",
+    "service_request_id": "SR000185",
+    "case_closed_at": "2025-06-24T00:08:40Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-06-24T00:34:40Z"
+  },
+  {
+    "closure_id": "CLS000316",
+    "service_request_id": "SR000190",
+    "case_closed_at": "2025-07-02T10:52:51Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 5,
+    "reopen_flag": false,
+    "updated_at": "2025-07-02T11:27:51Z"
+  },
+  {
+    "closure_id": "CLS000317",
+    "service_request_id": "SR000193",
+    "case_closed_at": "2025-03-06T00:03:32Z",
+    "closure_reason": "Unresolved Issue",
+    "resolution_status": "UNRESOLVED",
+    "customer_satisfaction_score": 1,
+    "reopen_flag": false,
+    "updated_at": "2025-03-06T00:20:32Z"
+  },
+  {
+    "closure_id": "CLS000318",
+    "service_request_id": "SR000206",
+    "case_closed_at": "2025-04-06T06:24:41Z",
+    "closure_reason": "No Fault Found",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-04-06T07:21:41Z"
+  },
+  {
+    "closure_id": "CLS000319",
+    "service_request_id": "SR000212",
+    "case_closed_at": "2025-05-14T18:59:29Z",
+    "closure_reason": "Repair Completed",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 3,
+    "reopen_flag": false,
+    "updated_at": "2025-05-14T19:29:29Z"
+  },
+  {
+    "closure_id": "CLS000320",
+    "service_request_id": "SR000215",
+    "case_closed_at": "2024-08-04T20:46:51Z",
+    "closure_reason": "Customer Cancelled",
+    "resolution_status": "RESOLVED",
+    "customer_satisfaction_score": 4,
+    "reopen_flag": false,
+    "updated_at": "2024-08-04T20:52:51Z"
+  }
+]
