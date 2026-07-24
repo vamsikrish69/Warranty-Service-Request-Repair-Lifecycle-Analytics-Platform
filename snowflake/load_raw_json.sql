@@ -1,0 +1,2 @@
+-- JSON loading commands will be added after files
+-- are uploaded into Snowflake Stage.
