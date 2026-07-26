@@ -1,36 +1,41 @@
 /*
 Purpose:
-This script creates a pipeline health summary using load audit results and
-data quality results.
+This script creates a pipeline health summary view for the warranty service
+request and repair lifecycle analytics platform.
 
 Business Value:
-This gives a single operational view showing whether the warranty service
-analytics pipeline is healthy, partially failing, or requires investigation.
+The view provides a single operational summary showing whether source loads
+completed successfully and whether the data quality checks passed.
 */
 
 USE DATABASE WARRANTY_SERVICE_ANALYTICS_DB;
 USE SCHEMA MONITORING;
 
-CREATE OR REPLACE VIEW PIPELINE_HEALTH AS
+CREATE OR REPLACE VIEW PIPELINE_HEALTH_CHECKS AS
 
 WITH LOAD_HEALTH AS (
 
     SELECT
         COUNT(*) AS TOTAL_LOADS,
+
         COUNT(
             CASE
                 WHEN LOAD_STATUS = 'SUCCESS'
                 THEN 1
             END
         ) AS SUCCESSFUL_LOADS,
+
         COUNT(
             CASE
                 WHEN LOAD_STATUS <> 'SUCCESS'
                 THEN 1
             END
         ) AS FAILED_LOADS,
+
         SUM(RECORDS_PROCESSED) AS TOTAL_RECORDS_PROCESSED,
+
         MAX(LOAD_COMPLETED_AT) AS LAST_LOAD_COMPLETED_AT
+
     FROM MONITORING.INCREMENTAL_LOAD_AUDIT
 
 ),
@@ -39,19 +44,23 @@ QUALITY_HEALTH AS (
 
     SELECT
         COUNT(*) AS TOTAL_QUALITY_CHECKS,
+
         COUNT(
             CASE
                 WHEN STATUS = 'PASS'
                 THEN 1
             END
         ) AS PASSED_QUALITY_CHECKS,
+
         COUNT(
             CASE
                 WHEN STATUS = 'FAIL'
                 THEN 1
             END
         ) AS FAILED_QUALITY_CHECKS,
+
         MAX(TEST_EXECUTED_AT) AS LAST_QUALITY_CHECK_AT
+
     FROM MONITORING.DATA_QUALITY_RESULTS
 
 )
@@ -88,4 +97,5 @@ SELECT
     CURRENT_TIMESTAMP AS HEALTH_CHECK_EXECUTED_AT
 
 FROM LOAD_HEALTH l
+
 CROSS JOIN QUALITY_HEALTH q;
