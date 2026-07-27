@@ -20,15 +20,6 @@ This screenshot demonstrates the Fivetran source connector setup used as part of
 
 The project used Google Drive as a source location for raw JSON datasets and configured a Fivetran source connector as part of the ELT ingestion workflow design.
 
-## What the Screenshot Shows
-
-The screenshot should show:
-
-```text
-Google Drive source connector
-Fivetran connector setup
-Snowflake destination setup flow
-```
 
 ## Business Value
 
@@ -49,25 +40,6 @@ snowflake_database_structure/
 This screenshot demonstrates the Snowflake database structure created for the project.
 
 The platform follows a layered data warehouse architecture consisting of:
-
-```text
-RAW
-STAGING
-INTERMEDIATE
-MARTS
-ANALYTICS
-MONITORING
-```
-
-## What the Screenshot Shows
-
-The screenshot should show the database:
-
-```text
-WARRANTY_SERVICE_ANALYTICS_DB
-```
-
-and the main schemas:
 
 ```text
 RAW
@@ -110,23 +82,6 @@ STG_REPAIR_EVENTS
 STG_CASE_CLOSURES
 ```
 
-## What the Screenshot Shows
-
-The screenshot should show flattened columns such as:
-
-```text
-CUSTOMER_ID
-ASSET_ID
-CONTACT_ID
-SERVICE_REQUEST_ID
-REPAIR_EVENT_ID
-CLOSURE_ID
-REGION
-COUNTRY
-CREATED_AT
-UPDATED_AT
-```
-
 ## Business Value
 
 This screenshot proves that semi-structured JSON data was successfully transformed into clean relational staging models for downstream analytics.
@@ -155,23 +110,6 @@ FROM MARTS.MART_SERVICE_REQUEST_LIFECYCLE
 LIMIT 10;
 ```
 
-## What the Screenshot Shows
-
-The screenshot should show lifecycle fields such as:
-
-```text
-CONTACT_ID
-SERVICE_REQUEST_ID
-WARRANTY_ID
-REPAIR_EVENT_ID
-CLOSURE_ID
-CONTACT_TO_SERVICE_HOURS
-REPAIR_TURNAROUND_HOURS
-TOTAL_LIFECYCLE_HOURS
-SERVICE_CREATED_FLAG
-REPAIR_COMPLETED_FLAG
-CASE_RESOLVED_FLAG
-```
 
 ## Business Value
 
@@ -366,21 +304,21 @@ CONTACT_CHANNEL
 REGION
 COUNTRY
 TOTAL_CONTACTS
-TOTAL_SERVICE*REQUESTS
-FIRST_CONTACT_RESOLUTIONS*CONTACT*_CONVERTED_TO_SERVICE
-ESC*L*TED_SERVICE_REQUESTS
-RES*L*ED_SERVICE_REQUESTS
-RE*PEN*D_SERVICE_REQUESTS
-*ONTACT*TO_SERVICE_CONVERSION_RATE
-FIRST*CONTACT*RESOLUTION_RATE
-*SCALATION_RATE
-*EOPEN_RATE
-*VG_LIFECYCLE_HOURS
+TOTAL_SERVICE_REQUESTS
+FIRST_CONTACT_RESOLUTIONS_CONTACT_CONVERTED_TO_SERVICE
+ESCLATED_SERVICE_REQUESTS
+RESOLVED_SERVICE_REQUESTS
+REOPENED_SERVICE_REQUESTS
+CONTACT_TO_SERVICE_CONVERSION_RATE
+FIRST_CONTACT_RESOLUTION_RATE
+ESCALATION_RATE
+REOPEN_RATE
+AVG_LIFECYCLE_HOURS
 *``
 
 ## Business Value
 
-*his*screenshot proves that the platfor* enables support performance analy*is across voice, chat, social medi*, regions, and countries.
+this screenshot proves that the platform enables support performance analysis across voice, chat, social media, regions, and countries.
 
 ---
 
@@ -394,48 +332,48 @@ product_issue_trends/
 
 ## Business Question
 
-Which prod*ct models and issue categories gen*rate the highest support and repai* demand?
+Which prodUct models and issue categories generate the highest support and repair demand?
 
 ## Purpose
 
-This screens*ot demonstrates product issue tren* analysis using issue counts, serv*ce request conversion, repeat requ*sts, escalation rates, and ranking*logic.
+This screensHot demonstrates product issue trenD analysis using issue counts, servCce request conversion, repeat requests, escalation rates, and ranking_logic.
 
 ## Recommended Query
 
 ```s*l
 SELECT *
-FROM MARTS.MART_PRODUCT*ISSUE_TRENDS
+FROM MARTS.MART_PRODUCT_ISSUE_TRENDS
 ORDER BY
-    PRODUCT_*INE,
+    PRODUCT_LINE,
     PRODUCT_MODEL,
-    ISSUE_*ANK
+    ISSUE_RANK
 LIMIT 50;
 ```
 
-## Metrics Disp*ayed
+## Metrics Displayed
 
 ```text
 PRODUCT_LINE
-PRODUCT*MODEL
+PRODUCT_MODEL
 ISSUE_CATEGORY
-TOTAL_ISSUE_C*NTACTS
+TOTAL_ISSUE_CONTACTS
 TOTAL_SERVICE_REQUESTS
-REPE*T_SERVICE_REQUESTS
-ESCALATED_SERVI*E_REQUESTS
+REPEAT_SERVICE_REQUESTS
+ESCALATED_SERVICE_REQUESTS
 ISSUE_RANK
-ISSUE_TO_SER*ICE_REQUEST_RATE
-REPEAT_SERVICE_RE*UEST_RATE
+ISSUE_TO_SERVICE_REQUEST_RATE
+REPEAT_SERVICE_REQUEST_RATE
 ESCALATION_RATE
 ```
 
-## *usiness Value
+## Business Value
 
-This screenshot pro*es that the platform can identify *ecurring product issues, high-volu*e support categories, and product *odels with higher service demand.
+This screenshot proVes that the platform can identify Recurring product issues, high-volume support categories, and product Models with higher service demand.
 *---
 
 # 10. Data Quality Checks
 
-***older:**
+***Folder:**
 
 ```text
 data_quality_che*ks/
@@ -443,118 +381,118 @@ data_quality_che*ks/
 
 ## Purpose
 
-This screensh*t demonstrates the centralized dat* quality monitoring view implement*d in the MONITORING schema.
+This screenshot demonstrates the centralized data quality monitoring view implemented in the MONITORING schema.
 
-The f*amework validates completeness, un*queness, relationship integrity, a*cepted channel values, warranty da*e validity, and operational readin*ss.
+The framework validates completeness, uniqueness, relationship integrity, accepted channel values, warranty date validity, and operational readiness.
 
 ## Recommended Query
 
 ```sql
-*ELECT
+SELECT
     TEST_NAME,
-    TABLE_NAM*,
+    TABLE_NAME,
     STATUS,
     METRIC_VALUE,
-  * TEST_EXECUTED_AT
-FROM MONITORING.*ATA_QUALITY_RESULTS
+   TEST_EXECUTED_AT
+FROM MONITORING.DATA_QUALITY_RESULTS
 ORDER BY
-    S*ATUS,
+    STATUS,
     TEST_NAME;
 ```
 
-## Check* Included
+## Checks Included
 
 ```text
-Row Count Check*
+Row Count Checks
 Primary Key Null Checks
-Duplicate*Checks
-Relationship Integrity Chec*s
+Duplicate Checks
+Relationship Integrity Checss
 Valid Channel Checks
-Warranty Da*e Validity Checks
-Service Request *elationship Checks
-Repair Event Re*ationship Checks
-Case Closure Rela*ionship Checks
+Warranty Date Validity Checks
+Service Request relationship Checks
+Repair Event Relationship Checks
+Case Closure Relationship Checks
 ```
 
 ## Business Va*ue
 
-This screenshot proves that th* platform includes a reusable data*quality framework that validates d*ta before it is consumed by marts *nd business analytics queries.
+This screenshot proves that the platform includes a reusable data quality framework that validates data before it is consumed by marts and business analytics queries.
 
 --*
 
 # 11. Incremental Load Logic
 
-*****der:**
+**folder:**
 
 ```text
-incremental_load*logic/
+incremental_load_logic/
 ```
 
 ## Purpose
 
-This folde* contains screenshots proving that*the platform includes incremental *oad audit tracking and pipeline he*lth monitoring.
+This folder contains screenshots proving that the platform includes incremental Load audit tracking and pipeline heAlth monitoring.
 
 ---
 
-## Increment*l Load Audit
+## Incremental Load Audit
 
-### Recommended Quer*
+### Recommended Query
 
 ```sql
 SELECT
     AUDIT_ID,
-    *OURCE_TABLE_NAME,
-    SOURCE_FILE_*AME,
+    sOURCE_TABLE_NAME,
+    SOURCE_FILE_NAME,
     BATCH_ID,
-    RECORDS_PRO*ESSED,
+    RECORDS_PROCESSED,
     LOAD_STATUS,
-    LOAD_S*ARTED_AT,
+    LOAD_StARTED_AT,
     LOAD_COMPLETED_AT
-FR*M MONITORING.INCREMENTAL_LOAD_AUDI*
+FROM MONITORING.INCREMENTAL_LOAD_AUDIT
 ORDER BY SOURCE_TABLE_NAME;
 ```
 
 *## Metrics Displayed
 
 ```text
-AUDI*_ID
+AUDIT_ID
 SOURCE_TABLE_NAME
-SOURCE_FILE_*AME
+SOURCE_FILE_nAME
 BATCH_ID
 RECORDS_PROCESSED
-LOA*_STATUS
+LOAD_STATUS
 LOAD_STARTED_AT
-LOAD_COMPL*TED_AT
+LOAD_COMPLeTED_AT
 ```
 
 ### Business Value
 
-Th*s screenshot proves that the frame*ork tracks source file loads, RAW *able record counts, batch IDs, loa* status, and ingestion timestamps.*
+Ths screenshot proves that the frameWork tracks source file loads, RAW record counts, batch IDs, load status, and ingestion timestamps.
 ---
 
 ## Pipeline Health Checks
 
-#*# Recommended Query
+## Recommended Query
 
-```sql
-SELECT**
-FROM MONITORING.PIPELINE_HEALTH_*HECKS;
+```sqL
+SELECT*
+FROM MONITORING.PIPELINE_HEALTH_CHECKS;
 ```
 
 ### Metrics Displayed
 *```text
 PIPELINE_NAME
 TOTAL_LOADS
-*UCCESSFUL_LOADS
+SUCCESSFUL_LOADS
 FAILED_LOADS
-TOTAL*RECORDS_PROCESSED
-LAST_LOAD_COMPLE*ED_AT
+TOTAL_RECORDS_PROCESSED
+LAST_LOAD_COMPLETED_AT
 TOTAL_QUALITY_CHECKS
-PASSED_*UALITY_CHECKS
-FAILED_QUALITY_CHECK*
+PASSED_QUALITY_CHECKS
+FAILED_QUALITY_CHECKS
 LAST_QUALITY_CHECK_AT
-PIPELINE_HE*LTH_STATUS
-HEALTH_CHECK_EXECUTED_A*
+PIPELINE_HEALTH_STATUS
+HEALTH_CHECK_EXECUTED_AT
 ```
 
 ### Expected Output
@@ -564,22 +502,22 @@ HEALTH_CHECK_EXECUTED_A*
 
 ### Business Value
 
-This screen*hot proves that the platform conso*idates load audit results and data*quality results into a single pipe*ine health status for operational *onitoring.
+This screenShot proves that the platform consoLidates load audit results and data_quality results into a single pipeLine health status for operational Monitoring.
 
 ---
 
-# Screenshot Summ*ry
+# Screenshot SummAry
 
-The screenshots in this folder*collectively demonstrate the imple*entation of:
+The screenshots in this folder collectively demonstrate the implementation of:
 
 ```text
-Fivetran Sou*ce Connector Setup
-Snowflake Layer*d Database Architecture
-Raw JSON I*gestion
+Fivetran Source Connector Setup
+Snowflake Layered Database Architecture
+Raw JSON Ingestion
 Staging Transformations
-In*ermediate Lifecycle Modeling
-Busin*ss-Ready Marts
-Warranty Utilizatio* Analytics
+Intermediate Lifecycle Modeling
+Business-Ready Marts
+Warranty Utilization Analytics
 Repair Turnaround Analytics
 SLA Adherence Analytics
 Channel and Region Performance Analytics
