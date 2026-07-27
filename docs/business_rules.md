@@ -53,6 +53,13 @@ HIGH      = 72 Hours
 CRITICAL  = 48 Hours
 ```
 
+## Lifecycle Measurement Rules
+
+- Contact-to-Service Hours are measured from CONTACT_TIMESTAMP to SERVICE_CREATED_AT.
+- Repair Wait Time is measured from REPAIR_CREATED_AT to REPAIR_STARTED_AT.
+- Repair Turnaround Time is measured from REPAIR_STARTED_AT to REPAIR_COMPLETED_AT.
+- Total Lifecycle Hours are measured from CONTACT_TIMESTAMP to CASE_CLOSED_AT.
+
 ## Repeat Request Rules
 
 A service request is considered a repeat request when:
@@ -86,3 +93,14 @@ The platform validates:
 - Warranty Date Validity
 - Channel Validity
 - Service Request Relationships
+
+
+## Monitoring Rules
+
+The platform continuously monitors:
+
+- Incremental Load Success
+- Records Processed Per Load
+- Source File Auditing
+- Data Quality Test Results
+- Overall Pipeline Health Status
