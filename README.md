@@ -4,13 +4,13 @@
 
 The Warranty Service Request Repair Lifecycle Analytics Platform is an end-to-end analytics solution designed to track customer support requests from initial customer contact through warranty validation, service request creation, repair fulfillment, and final case closure.
 
-The platform simulates a Fivetran-style ELT architecture using semi-structured JSON source data, Snowflake data warehousing, and advanced SQL transformations to build business-ready analytical datasets.
+The platform simulates a modern ELT architecture using JSON source data, Snowflake data warehousing, SQL-based transformation layers, business marts, operational monitoring, and lifecycle analytics models.
 
-The solution integrates customer contacts, product assets, warranty entitlements, service requests, repair events, and case closure records into a unified lifecycle model that supports operational reporting, service performance monitoring, warranty utilization analysis, repair efficiency tracking, SLA compliance measurement, and escalation analysis.
+The solution integrates customer contacts, product assets, warranty entitlements, service requests, repair events, and case closure records into a unified analytical framework that supports operational reporting, warranty utilization analysis, repair efficiency tracking, SLA monitoring, escalation analysis, and product issue trend analysis.
 
 ---
 
-## Business Problem
+# Business Problem
 
 Customer support organizations generate large volumes of operational data across multiple systems including support channels, warranty systems, repair operations, and service management platforms.
 
@@ -23,282 +23,418 @@ Without a centralized analytics platform, it becomes difficult to answer importa
 - How effectively are warranty entitlements being utilized?
 - What operational bottlenecks exist across the service lifecycle?
 - Which request types generate the highest escalation rates?
-- How frequently are customers contacting support for repeat issues?
+- How frequently do customers generate repeat service requests?
 
-This platform addresses these challenges by creating an integrated lifecycle analytics framework spanning the complete customer support journey.
+This platform addresses these challenges by providing a complete lifecycle analytics solution that spans the entire customer support journey.
 
 ---
 
-## Architecture
+# Solution Architecture
 
-### High-Level Data Flow
+## High-Level Data Flow
 
 ```text
-Voice Support
-Chat Support
-Social Media Support
-Warranty Systems
-Repair Systems
-Case Management Systems
-            │
-            ▼
-Fivetran-Style Ingestion Layer
-            │
-            ▼
-Raw JSON Source Data
-            │
-            ▼
-Snowflake RAW Schema
-            │
-            ▼
-Snowflake STAGING Schema
-            │
-            ▼
-Snowflake INTERMEDIATE Schema
-            │
-            ▼
-Snowflake MARTS Schema
-            │
-            ▼
-Business Analytics & Reporting
+Google Drive JSON Files
+           │
+           ▼
+Fivetran-Style Ingestion Architecture
+           │
+           ▼
+Snowflake RAW Layer
+           │
+           ▼
+Snowflake STAGING Layer
+           │
+           ▼
+Snowflake INTERMEDIATE Layer
+           │
+           ▼
+Snowflake MARTS Layer
+           │
+           ▼
+Analytics Layer
+           │
+           ▼
+Monitoring Layer
 ```
 
 ---
 
-## Technology Stack
+# Technology Stack
 
-### Data Ingestion
+## Data Ingestion
 
-```text
-Fivetran-Style ELT Architecture
-JSON Source Files
-```
+- Google Drive JSON Files
+- Fivetran-Style ELT Architecture
+- Snowflake Internal Stage
 
-### Data Warehouse
+## Data Warehouse
 
-```text
-Snowflake
-```
+- Snowflake
 
-### Data Processing
+## Data Transformation
 
-```text
-SQL
-Window Functions
-Aggregations
-Ranking Logic
-Lifecycle Analytics
-```
+- SQL
+- Snowflake Views
+- Window Functions
+- Lifecycle Modeling
+- Business KPI Aggregations
 
-### Data Modeling
+## Monitoring
 
-```text
-RAW Layer
-STAGING Layer
-INTERMEDIATE Layer
-MART Layer
-```
+- Data Quality Framework
+- Incremental Load Auditing
+- Pipeline Health Monitoring
 
-### Monitoring
+## Documentation
 
-```text
-Incremental Load Tracking
-Data Quality Monitoring
-Pipeline Health Monitoring
-```
+- GitHub
+- README Documentation
+- Architecture Documentation
+- Implementation Screenshots
 
 ---
 
-## Supported Support Channels
+# Supported Support Channels
 
-The platform supports customer interactions received through:
+The platform supports customer support interactions received through:
 
-```text
-Voice Support
-Chat Support
-Facebook Support
-Social Media Support
-```
+- Voice Support
+- Chat Support
+- Facebook Support
+- Social Media Support
 
 ---
 
-## Supported Regions
+# Supported Regions
 
-The analytics platform supports multiple service regions including:
+## North America
 
-```text
-North America
-    ├── United States
-    └── Canada
+- United States
+- Canada
 
-United Kingdom
+## United Kingdom
 
-India
-```
+- United Kingdom
 
----
+## India
 
-## Warranty Coverage Models
-
-### Mail-In Warranty
-
-Default warranty coverage provided during purchase.
-
-```text
-1 Year Mail-In Warranty
-```
-
-Customers ship devices to a repair center where diagnosis and repair activities are performed.
-
-### Onsite Warranty
-
-Extended warranty options providing technician visits at customer locations.
-
-```text
-1 Year Onsite Warranty
-2 Year Onsite Warranty
-3 Year Onsite Warranty
-```
+- India
 
 ---
 
-## Supported Issue Categories
+# Warranty Coverage Models
 
-```text
-NO_POWER
-NO_POST
-NO_VIDEO
-NO_BOOT
-OSRI
-WINDOWS_ISSUE
-HARDWARE_FAILURE
-BATTERY_ISSUE
-DISPLAY_ISSUE
-KEYBOARD_TOUCHPAD_ISSUE
-NETWORK_ISSUE
-OTHER
-```
+## Mail-In Warranty
+
+Customers ship devices to repair centers where diagnosis and repair activities are performed.
+
+Examples:
+
+- 1 Year Mail-In Warranty
+
+## Onsite Warranty
+
+Technician visits are performed at customer locations.
+
+Examples:
+
+- 1 Year Onsite Warranty
+- 2 Year Onsite Warranty
+- 3 Year Onsite Warranty
 
 ---
 
-## Source Datasets
+# Supported Issue Categories
 
-### Customers
+- NO_POWER
+- NO_POST
+- NO_VIDEO
+- NO_BOOT
+- OSRI
+- WINDOWS_ISSUE
+- HARDWARE_FAILURE
+- BATTERY_ISSUE
+- DISPLAY_ISSUE
+- KEYBOARD_TOUCHPAD_ISSUE
+- NETWORK_ISSUE
+- OTHER
 
-Stores customer profile information.
+---
+
+# Source Datasets
+
+## Customers
 
 ```text
 customers.json
 ```
 
-### Product Assets
+Stores customer profile information.
 
-Stores device ownership and asset information.
+## Product Assets
 
 ```text
 product_assets.json
 ```
 
-### Customer Contacts
+Stores customer-owned product and asset information.
 
-Stores incoming support interactions.
+## Customer Contacts
 
 ```text
 customer_contacts.json
 ```
 
-### Warranty Entitlements
+Stores customer support interactions.
 
-Stores warranty coverage details.
+## Warranty Entitlements
 
 ```text
 warranty_entitlements.json
 ```
 
-### Service Requests
+Stores warranty coverage and entitlement information.
 
-Stores requests generated during support interactions.
+## Service Requests
 
 ```text
 service_requests.json
 ```
 
-### Repair Events
+Stores support-generated service requests.
 
-Stores repair execution activities.
+## Repair Events
 
 ```text
 repair_events.json
 ```
 
-### Case Closures
+Stores repair execution and fulfillment information.
 
-Stores final case resolution information.
+## Case Closures
 
 ```text
 case_closures.json
 ```
 
+Stores final support case outcomes and closure details.
+
 ---
 
-## Snowflake Architecture
+# Snowflake Data Architecture
 
-### RAW Schema
+## RAW Layer
 
 Purpose:
 
-```text
 Stores semi-structured JSON source records exactly as received.
-```
 
-### STAGING Schema
+### RAW Tables
 
-Purpose:
-
-```text
-Extracts and standardizes JSON fields into relational structures.
-```
-
-### INTERMEDIATE Schema
-
-Purpose:
-
-```text
-Builds integrated lifecycle models connecting contacts,
-service requests, warranty records, repairs, and closures.
-```
-
-### MARTS Schema
-
-Purpose:
-
-```text
-Provides business-ready datasets optimized for reporting,
-analytics, and KPI measurement.
-```
-
-### MONITORING Schema
-
-Purpose:
-
-```text
-Tracks incremental loads,
-data quality results,
-and pipeline health metrics.
-```
+- CUSTOMERS_RAW
+- PRODUCT_ASSETS_RAW
+- CUSTOMER_CONTACTS_RAW
+- WARRANTY_ENTITLEMENTS_RAW
+- SERVICE_REQUESTS_RAW
+- REPAIR_EVENTS_RAW
+- CASE_CLOSURES_RAW
 
 ---
 
-## Lifecycle Analytics Model
+## STAGING Layer
 
-The core business model tracks the complete customer support journey.
+Purpose:
+
+Extracts fields from JSON records and converts them into structured relational datasets.
+
+### Staging Views
+
+- STG_CUSTOMERS
+- STG_PRODUCT_ASSETS
+- STG_CUSTOMER_CONTACTS
+- STG_WARRANTY_ENTITLEMENTS
+- STG_SERVICE_REQUESTS
+- STG_REPAIR_EVENTS
+- STG_CASE_CLOSURES
+
+---
+
+## INTERMEDIATE Layer
+
+Purpose:
+
+Builds integrated lifecycle models connecting contacts, service requests, warranty records, repairs, and case closures.
+
+### Intermediate Models
+
+- INT_CONTACT_SERVICE_LIFECYCLE
+- INT_WARRANTY_VALIDATION
+- INT_REPAIR_FULFILLMENT
+- INT_CASE_RESOLUTION
+- INT_REPEAT_SERVICE_REQUESTS
+
+---
+
+## MARTS Layer
+
+Purpose:
+
+Provides business-ready analytical datasets optimized for reporting and KPI measurement.
+
+### Business Marts
+
+- MART_SERVICE_REQUEST_LIFECYCLE
+- MART_REPAIR_TURNAROUND_PERFORMANCE
+- MART_WARRANTY_UTILIZATION
+- MART_SLA_ADHERENCE
+- MART_CHANNEL_REGION_PERFORMANCE
+- MART_PRODUCT_ISSUE_TRENDS
+
+---
+
+# Lifecycle Analytics Model
+
+The platform tracks the complete customer service journey.
 
 ```text
 Customer Contact
-        ↓
+        │
+        ▼
 Troubleshooting
-        ↓
+        │
+        ▼
 Warranty Validation
-        ↓
+        │
+        ▼
 Service Request Creation
-     
+        │
+        ▼
+Repair Fulfillment
+        │
+        ▼
+Case Resolution
+        │
+        ▼
+Case Closure
+```
+
+---
+
+# Analytics Layer
+
+The project includes business-focused analytics for:
+
+## Service Lifecycle Analysis
+
+- Service request volume
+- Resolution rates
+- Lifecycle duration analysis
+
+## Repair Turnaround Analysis
+
+- Repair completion rates
+- Part delay analysis
+- Repair turnaround performance
+
+## Warranty Utilization Analysis
+
+- Active warranty utilization
+- Expired warranty contacts
+- Mail-in vs onsite service usage
+
+## SLA Adherence Analysis
+
+- SLA compliance tracking
+- SLA breach analysis
+- Priority-based performance monitoring
+
+## Channel and Region Performance
+
+- Contact channel performance
+- Regional support trends
+- Escalation analysis
+
+## Product Issue Trend Analysis
+
+- Product reliability trends
+- Repeat issue analysis
+- High-volume issue category identification
+
+---
+
+# Monitoring Layer
+
+The project implements operational monitoring through:
+
+## Data Quality Framework
+
+Validates:
+
+- Row counts
+- Primary key completeness
+- Duplicate records
+- Relationship integrity
+- Warranty date validity
+- Channel value validation
+
+## Incremental Load Audit
+
+Tracks:
+
+- Source file loads
+- Batch processing history
+- Records processed
+- Load timestamps
+- Load status
+
+## Pipeline Health Monitoring
+
+Provides centralized monitoring of:
+
+- Load success rates
+- Data quality status
+- Record processing volumes
+- Overall pipeline health
+
+---
+
+# Project Screenshots
+
+Implementation screenshots are available under:
+
+```text
+/screenshots
+```
+
+Screenshot categories include:
+
+- Fivetran Source Connector Setup
+- Snowflake Database Architecture
+- Staging Model Outputs
+- Lifecycle Mart Outputs
+- Repair Turnaround Analysis
+- Warranty Utilization Analysis
+- SLA Adherence Analysis
+- Channel and Region Performance Analysis
+- Product Issue Trend Analysis
+- Data Quality Checks
+- Incremental Load Audit
+- Pipeline Health Monitoring
+
+---
+
+# Key Business Outcomes
+
+The platform enables organizations to:
+
+- Improve repair turnaround performance
+- Monitor SLA compliance
+- Analyze warranty utilization effectiveness
+- Identify recurring product issues
+- Track service request lifecycle performance
+- Reduce operational bottlenecks
+- Measure support channel effectiveness
+- Monitor data quality and pipeline reliability
+
+---
