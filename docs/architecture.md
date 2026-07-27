@@ -9,20 +9,34 @@ The platform follows a modern layered data warehouse architecture using Fivetran
 ## Architecture Flow
 
 ```text
-Raw JSON Source Files
-        ↓
-Fivetran-Style Ingestion
-        ↓
-RAW Schema
-        ↓
-STAGING Schema
-        ↓
-INTERMEDIATE Schema
-        ↓
-MARTS Schema
-        ↓
-Analytics & Reporting
-```
+Google Drive JSON Files
+           │
+           ▼
+Fivetran-Style Ingestion Architecture
+           │
+           ▼
+Snowflake RAW Layer
+           │
+           ▼
+Snowflake STAGING Layer
+           │
+           ▼
+Snowflake INTERMEDIATE Layer
+           │
+           ▼
+Snowflake MARTS Layer
+           │
+           ▼
+Analytics Layer
+           │
+           ▼
+Monitoring Layer
+           │
+           ▼
+Data Quality Framework
+           │
+           ▼
+Pipeline Health Monitoring
 
 ## Source Systems
 
