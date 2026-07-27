@@ -144,3 +144,13 @@ Service Requests ÷ Issue Contacts
 ```
 
 Measures which issues are most likely to require repair intervention.
+
+
+## Monitoring KPIs
+
+### Pipeline Health Status
+
+```text
+HEALTHY
+WARNING_DATA_QUALITY_ISSUES
+FAILED_LOAD_ISSUES
